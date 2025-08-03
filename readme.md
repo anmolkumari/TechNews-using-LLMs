@@ -25,4 +25,11 @@
 | Realtime DB      | Firebase                          |
 | News Retrieval   | Tool-based dynamic fetchers       |
 
+
+UI:
+
 <img width="1638" height="512" alt="technews_ui" src="https://github.com/user-attachments/assets/a56384f7-01a3-46fa-82ef-5a6016bd9040" />
+
+Personalised Categorical Email:
+
+<img width="1389" height="497" alt="email_topnews" src="https://github.com/user-attachments/assets/ced69758-acc3-4497-8450-599be3049471" />
